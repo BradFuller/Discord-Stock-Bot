@@ -1,4 +1,4 @@
-# Discord-Stock-Bot
+# Discord Stock Bot
 A Discord stock bot - uploads stock graph to chat when stock is mentioned!
 
 This bot is currently running as a web job so it will be up 24/7!
