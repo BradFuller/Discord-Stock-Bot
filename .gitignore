@@ -243,3 +243,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/DiscordStockBot/Properties/PublishProfiles/DiscordStockBot - Web Deploy.pubxml
+/DiscordStockBot/Properties/webjob-publish-settings.json
